@@ -1,11 +1,12 @@
 # History Champions – Mobile Application
 
-History Champions adalah aplikasi mobile yang menampilkan daftar juara MPL Indonesia dari season ke season. Aplikasi ini dirancang dengan tampilan modern, sederhana, dan informatif sehingga pengguna dapat melihat detail juara setiap musim, roster tim, serta informasi detail lainnya secara cepat dan praktis.
+History Champions adalah aplikasi mobile yang menampilkan daftar juara MPL Indonesia dari season ke season. Aplikasi ini dirancang dengan tampilan modern, sederhana, dan informatif sehingga pengguna dapat melihat detail juara setiap musim, roster tim, serta informasi detail lainnya secara cepat dan praktis, serta tujuan utamanya untuk memenuhi tugas.
 
 ---
 
 ## Fitur Utama
 - Splash Screen
+  Memuat loading dengan inisialisasi dari lottie
 
 - Home Screen
   Menampilkan daftar juara MPL per season dengan UI yang bersih dan mudah dinavigasi.
@@ -32,7 +33,6 @@ History Champions adalah aplikasi mobile yang menampilkan daftar juara MPL Indon
 
 ### 🏠 Home Screen
 <p align="center">
-  ![splash](https://github.com/user-attachments/assets/331d80be-a43b-4cb8-85a2-8475108df311)
   <img src="https://github.com/user-attachments/assets/76c8f060-6ed8-4cb8-bfe0-22c9a68b5e52" width="300">
   <img src="https://github.com/user-attachments/assets/85ca54e4-8284-4905-b22d-bf4af3f0a5aa" width="300">
 </p>
@@ -54,16 +54,10 @@ History Champions adalah aplikasi mobile yang menampilkan daftar juara MPL Indon
 
 ---
 
-## 📥 Download / File Project
-Untuk mengunduh seluruh project, klik link berikut:
+## 📥 LInk File Project
+
 
 Google Drive:  
 https://drive.google.com/drive/folders/161vbdUw12SCgYSlJVNMFUvw4VSpUhpsP
 
 ---
-
-## ▶️ Cara Menjalankan Project
-1. Pastikan sudah menginstall Flutter SDK.
-2. Clone / download project.
-3. Buka project menggunakan VS Code atau Android Studio.
-4. Jalankan perintah:
