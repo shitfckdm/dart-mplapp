@@ -34,6 +34,8 @@ History Champions adalah aplikasi mobile yang menampilkan daftar juara MPL Indon
 ### 🏠 Home Screen
 <p align="center">
   <img src="https://github.com/user-attachments/assets/76c8f060-6ed8-4cb8-bfe0-22c9a68b5e52" width="300">
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/85ca54e4-8284-4905-b22d-bf4af3f0a5aa" width="300">
 </p>
 
